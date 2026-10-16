@@ -4,7 +4,11 @@ Score canary disclosure and unauthorized tool assertions alongside benign-task c
 
 **Field:** AI application security  
 **Relevant roles:** AI Security Intern · Product Security Engineer, AI  
-**Status:** working prototype; hosting status is tracked separately.
+**Status:** working prototype, published on GitHub and Vercel.
+
+[**Open the live interactive lab**](https://injection-bench.vercel.app/)
+
+The hosted lab runs synthetic exercises in your browser. See the scope below for local integration exercises and limitations.
 
 ## Run
 
