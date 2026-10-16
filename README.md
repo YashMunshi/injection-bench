@@ -40,9 +40,7 @@ node run.mjs input.json
 - Guided controls plus editable/importable JSON input (maximum 1 MB).
 - Computed decisions, supporting records, explicit empty/error states, and
   downloadable evidence containing the input and limitations.
-- Self-hosted Space Grotesk headings and DM Sans text; 18px body text,
-  16px supporting text, 15px technical labels, keyboard focus, reduced motion,
-  and responsive evidence rows.
+- Individual visual identity: Acid-ink response laboratory, with self-hosted Space Grotesk and Rubik, a custom masthead, readable type, visible keyboard focus, and responsive data views.
 - Independent boundary and regression tests in `tests/`.
 
 ## Scope and limitations
@@ -99,3 +97,7 @@ It writes ignored `artifacts/live-input.json` and an evaluation report; import
 the input file in the browser to inspect actual responses. Tool-action scoring
 is disabled for live runs because no actual tool trace exists. Exact canary
 matching does not detect paraphrased, encoded, or partial disclosures.
+
+## Visual identity
+
+See [DESIGN.md](DESIGN.md) for this project’s typography, palette, header, and composition.
